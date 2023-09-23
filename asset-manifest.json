@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crud-react/static/css/main.27e9b7c3.css",
+    "main.js": "/crud-react/static/js/main.09bfbded.js",
+    "index.html": "/crud-react/index.html",
+    "main.27e9b7c3.css.map": "/crud-react/static/css/main.27e9b7c3.css.map",
+    "main.09bfbded.js.map": "/crud-react/static/js/main.09bfbded.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27e9b7c3.css",
+    "static/js/main.09bfbded.js"
+  ]
+}
